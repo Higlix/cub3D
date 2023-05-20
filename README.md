@@ -69,7 +69,7 @@ S = This represents the player and the direction it spawns in.
 ```bash
 $ ./bin/cub3d config/maps/test_map01.cub
 ```
-- ONLY WORKS ON MACOS
+- ONLY WORKS ON MACOS BY DEFAULT
 
 ## Authors
 
