@@ -64,7 +64,7 @@ S = This represents the player and the direction it spawns in.
 
 // S begin South is can also be N, W or E.
 ```
-- One small thing to note. If you want to create your own maps you can do so in this format with the file extension ".cub".
+- One small thing to note. If you want to create your own maps you can do so in this format and with the file extension ".cub".
 ## Execution
 ```bash
 $ ./bin/cub3d config/maps/test_map01.cub
