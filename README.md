@@ -8,7 +8,7 @@
 ![App Screenshot](https://github.com/Higlix/cub3D/blob/master/docs/unnamed.png)
 
 
-## Usage/Examples
+## Installation/Compiling
 
 ```bash
 $ git clone https://github.com/Higlix/cub3d
