@@ -5,7 +5,6 @@
 
 
 
-## 
 ![App Screenshot](https://github.com/Higlix/cub3D/blob/master/docs/unnamed.png)
 
 
